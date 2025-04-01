@@ -64,3 +64,12 @@ o = 'Awesome';
 z = range(5,10);
 
 # print(type(z));
+
+x = 100000j;
+# print(x);
+# print(type(x));
+
+import random;
+
+print(random.randrange(5,10));
+
